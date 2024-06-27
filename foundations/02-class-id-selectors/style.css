@@ -1,0 +1,19 @@
+.par {
+    background-color: rgb(240, 157, 170);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#special {
+    color: rgb(0,0,255);
+    font-size: 36px;
+}
+
+.third {
+    font-size: 24px;
+}
+
+#special2 {
+    background-color: rgb(91, 204, 128);
+    font-size: 24px;
+    font-weight: bold;
+}
